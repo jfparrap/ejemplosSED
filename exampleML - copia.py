@@ -160,9 +160,3 @@ print(classification_report(Y_validation, predictions))
 
 print(predictions)
 
-
-# In[ ]:
-
-
-prin
-
